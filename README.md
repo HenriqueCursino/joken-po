@@ -13,19 +13,18 @@ Este é um aplicativo do jogo **JokenPô (Pedra, Papel e Tesoura)** desenvolvido
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem de programação:** Flutter
-- **Frameworks e bibliotecas:** [Exemplo: Android SDK, SwiftUI, etc.]
-- **IDE utilizada:** [Exemplo: Android Studio, Xcode, VS Code]
+- **Linguagem de programação:** Dart
+- **Frameworks e bibliotecas:** Flutter, Material Design
+- **IDE utilizada:** FlutLab.io
 
 ## 📸 Capturas de Tela
 
 ![Tela Inicial](./assets/tela_inicial.png)
-![Escolha do Jogador](./assets/escolha_jogador.png)
-![Resultado do Jogo](./assets/resultado.png)
+![Vitória](./assets/vitoria.png)
 
 ## 🎬 Demonstração do App
 
-![Gif de Demonstração](./assets/demo.gif)
+![Gif de Demonstração](./assets/demo.mp4)
 
 ## 📂 Estrutura do Projeto
 
