@@ -24,12 +24,13 @@ Este é um aplicativo do jogo **JokenPô (Pedra, Papel e Tesoura)** desenvolvido
 
 ## 🎬 Demonstração do App
 
-![Gif de Demonstração](./assets/demo.mp4)
+![Gif de Demonstração](./assets/demo.gif)
 
 ## 📂 Estrutura do Projeto
 
 ```bash
 JokenPo/
+├── assets/
 ├── images/
 ├── lib/
 │   ├── jogo.dart
